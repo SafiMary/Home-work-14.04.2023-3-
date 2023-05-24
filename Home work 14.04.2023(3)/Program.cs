@@ -31,7 +31,7 @@ namespace Home_work_14._04._2023_3_
 
             }
 
-            else
+            else    
             {
                 var dir2 = new DirectoryInfo(@"C:\Users\safim\source\repos\Home work 14.04.2023(3)"); // папка с файлами по умолчанию
                 Console.WriteLine("Список папок текущего каталога:");
